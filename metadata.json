@@ -1,0 +1,6 @@
+{
+  "name": "ShopStream",
+  "description": "Real-time e-commerce storefront and event-driven inventory management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
